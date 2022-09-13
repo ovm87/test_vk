@@ -85,6 +85,6 @@ def test_stroka_2():
 
 def test_stroka_3():
     assert chislo_stroka(mu)==str, "это число"
-    assert bukva(mu), "адрес почты"
+    assert bukva(mu), 
 
 
